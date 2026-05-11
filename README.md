@@ -8,3 +8,6 @@
 | `platformio.ini`       |   上传 | PlatformIO 核心配置，必须上传  |
 | `.gitignore`           |   上传 | 告诉 Git 忽略哪些文件         |
 | `README` / `README.md` |   上传 | 项目说明，可上传              |
+
+## 控制引脚
+- 当前被控引脚为P26

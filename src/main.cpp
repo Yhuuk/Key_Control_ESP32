@@ -3,7 +3,7 @@
 #include <BLEServer.h>
 #include <BLEUtils.h>
 
-#define LED_PIN 2
+#define LED_PIN 26
 
 // 设备名：小程序会根据这个名字搜索
 static const char *DEVICE_NAME = "ESP32_LOCK_001";
